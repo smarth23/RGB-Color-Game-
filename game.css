@@ -1,0 +1,49 @@
+body{
+	background-color: #232323;
+	margin: 0 auto;
+
+}
+
+.square {
+	width:30%;
+	background: purple;
+	padding-bottom: 30%;
+	float:left;
+	margin: 1.66%
+}
+
+#container{
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+h1{
+	height: 25%;
+	background-color: #232323;
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0 auto;
+	letter-spacing: 2px;
+
+}
+#colorDisplay{
+	font-family: georgia;
+	font-size: 60px;
+}
+
+
+#stripe{
+	background-color: white;
+	height: 30px;
+	text-align: center;
+
+}
+
+.selected {
+	background-color: steelblue;
+}
+
+#message{
+	padding: 50px;
+}
